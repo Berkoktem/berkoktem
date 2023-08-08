@@ -1,6 +1,5 @@
 ---
-title: Berk Öktem
-role: PhD candidate in economics
+avatar_filename: photo_boulot.jpg
 bio: My research interests include forest economics, biodiversity, agricultural
   economics, and environmental economics
 interests: []
@@ -32,7 +31,9 @@ superuser: true
 status:
   icon: ☕️
 last_name: Wu
+role: PhD candidate in economics
 highlight_name: true
+title: Berk Öktem
 first_name: Alice
 email: ""
 ---
